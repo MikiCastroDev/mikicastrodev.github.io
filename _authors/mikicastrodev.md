@@ -22,6 +22,8 @@ social:
       url: "https://instagram.com/johndoe"
     - title: "medium"
       url: "https://medium.com/johndoe"
+    - title: "dev"
+      url: "https://dev.com/johndoe"
     - title: "telegram"
       url: "https://telegram.com/johndoe"
     - title: "dribbble"

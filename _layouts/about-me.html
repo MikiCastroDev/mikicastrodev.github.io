@@ -42,6 +42,13 @@ layout: default
         >
           <i class="fab fa-medium-m"></i>
         </a>
+        {% endif %} {% if site.dev_username %}
+        <a
+          class="social-link"
+          href="http://dev.com/@{{ site.dev_username }}"
+        >
+          <i class="fab fa-dev"></i>
+        </a>
         {% endif %} {% if site.github_username %}
         <a
           class="social-link"
