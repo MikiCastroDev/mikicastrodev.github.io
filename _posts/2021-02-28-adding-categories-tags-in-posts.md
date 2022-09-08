@@ -14,7 +14,7 @@ keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll
   devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
 permalink: "/blog/adding-categories-tags-in-posts/"
-published: true
+published: false
 ---
 
 ## Adding Multiple Categories con Cambios de prueba
