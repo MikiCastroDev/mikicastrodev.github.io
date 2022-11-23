@@ -43,6 +43,12 @@ author_work_experiences:
               designation: .NET Core Developer y Oracle Software Developer
               description: Desarrollo de producto a medida con tecnologías .NET Core y PL/SQL
               visibility: true
+            - company_name: PlaceIn Booking
+              company_logo: place-in-logo.svg
+              company_url: https://placein.com/
+              designation: .NET Core Developer with MongoDB and MySQL databases
+              description: Desarrollo de producto a medida con tecnologías .NET Core y bases de datos MongoDB y MySQL
+              visibility: true
 
 # Education
 author_education_details:
