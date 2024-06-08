@@ -46,8 +46,14 @@ author_work_experiences:
             - company_name: PlaceIn Booking
               company_logo: place-in-logo.svg
               company_url: https://placein.com/
-              designation: .NET Core Developer with MongoDB and MySQL databases
-              description: Desarrollo de producto a medida con tecnologías .NET Core y bases de datos MongoDB y MySQL
+              designation: .NET Core Developer SQL Server database and Blazor Framework
+              description: Desarrollo de producto propio con tecnologías .NET Core, Blazor WASM y base de datos SQL Server
+              visibility: true
+            - company_name: Sixtema
+              company_logo: sixtema.png
+              company_url: https://www.sixtema.es/
+              designation: .NET Software developer
+              description: Desarrollo de producto a medida con tecnologías .NET Core, .Net Framework y bases de datos SQL Server
               visibility: true
 
 # Education
